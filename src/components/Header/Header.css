@@ -1,0 +1,25 @@
+.header {
+    text-align: center;
+    color: goldenrod;
+}
+
+nav {
+    background-color: black;
+    min-height: 30px;
+}
+
+nav a {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: black;
+    display: inline-block;
+}
+
+nav a:first-child {
+    margin-left: 50px;
+}
+
+nav a:hover {
+    background-color: gray;
+    color: greenyellow;
+}
