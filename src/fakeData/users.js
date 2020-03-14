@@ -6,7 +6,7 @@ var users =
     "username": "Bret",
     "email": "Sincere@april.biz",
 	"salary": 500,
-	"img": "thumbnails",
+	"img": "https://tse1.mm.bing.net/th?id=OIP.B2J_DSBrVavnUf9W7Tg6ygHaE8&pid=Api&rs=1&c=1&qlt=95&w=170&h=113",
 	"city": "Gwenborough",
     "address": {
       "street": "Kulas Light",
@@ -31,7 +31,7 @@ var users =
     "username": "Antonette",
     "email": "Shanna@melissa.tv",
 	"salary": 1000,
-	"img": "thumbnails",
+	"img": "https://tse2.mm.bing.net/th?id=OIP.PLvgM3y5CTRMilr8oah_6gHaLp&pid=Api&P=0&w=300&h=300",
 	"city": "Wisokyburgh",
 	"country": "US",
     "address": {
@@ -57,7 +57,7 @@ var users =
     "username": "Samantha",
     "email": "Nathan@yesenia.net",
 	"salary": 1500,
-	"img": "thumbnails",
+	"img": "https://tse3.mm.bing.net/th?id=OIP.oUTZTfTD0tHm24cXsDv1kwAAAA&pid=Api&P=0&w=300&h=300",
 	"city": "McKenziehaven",
     "address": {
       "street": "Douglas Extension",
@@ -82,7 +82,7 @@ var users =
     "username": "Karianne",
     "email": "Julianne.OConner@kory.org",
 	"salary": 2000,
-	"img": "thumbnails",
+	"img": "https://tse1.mm.bing.net/th?id=OIP.bO62m9QOuFeVaG0tXhJhDwHaLK&pid=Api&P=0&w=300&h=300",
 	"city": "South Elvis",
     "address": {
       "street": "Hoeger Mall",
@@ -107,7 +107,7 @@ var users =
     "username": "Kamren",
     "email": "Lucio_Hettinger@annie.ca",
 	"salary": 2500,
-	"img": "thumbnails",
+	"img": "https://tse3.mm.bing.net/th?id=OIP.LuDirf7S7ItoJdcMq_fEhwHaE7&pid=Api&P=0&w=232&h=155",
 	"city": "Roscoeview",
     "address": {
       "street": "Skiles Walks",
@@ -132,7 +132,7 @@ var users =
     "username": "Leopoldo_Corkery",
     "email": "Karley_Dach@jasper.info",
 	"salary": 3000,
-	"img": "thumbnails",
+	"img": "https://tse4.mm.bing.net/th?id=OIP.m8I3dSyscoUqY-GQEdgKHwHaLH&pid=Api&P=0&w=300&h=300",
 	"city": "South Christy",
     "address": {
       "street": "Norberto Crossing",
@@ -157,7 +157,7 @@ var users =
     "username": "Elwyn.Skiles",
     "email": "Telly.Hoeger@billy.biz",
 	"salary": 3500,
-	"img": "thumbnails",
+	"img": "https://tse4.mm.bing.net/th?id=OIP.oEtoy1W0qh8HyMJm0kulIwHaJ4&pid=Api&P=0&w=300&h=300",
 	"city": "Howemouth",
     "address": {
       "street": "Rex Trail",
@@ -182,7 +182,7 @@ var users =
     "username": "Maxime_Nienow",
     "email": "Sherwood@rosamond.me",
 	"salary": 4000,
-	"img": "thumbnails",
+	"img": "https://tse4.mm.bing.net/th?id=OIP.vKFf0JoDHlI4OWB7oswNpQHaJ4&pid=Api&P=0&w=300&h=300",
 	"city": "Aliyaview",
     "address": {
       "street": "Ellsworth Summit",
@@ -207,7 +207,7 @@ var users =
     "username": "Delphine",
     "email": "Chaim_McDermott@dana.io",
 	"salary": 4500,
-	"img": "thumbnails",
+	"img": "https://tse1.mm.bing.net/th?id=OIP.gIS_NPE5YHkXa-FoNtoRxwHaLH&pid=Api&P=0&w=300&h=300",
 	"city": "Bartholomebury",
     "address": {
       "street": "Dayna Park",
@@ -232,7 +232,7 @@ var users =
     "username": "Moriah.Stanton",
     "email": "Rey.Padberg@karina.biz",
 	"salary": 5000,
-	"img": "thumbnails",
+	"img": "https://tse4.mm.bing.net/th?id=OIP.m-v_ueWYhF9cyCeYQzdiqQHaE8&pid=Api&P=0&w=240&h=161",
 	"city": "Lebsackbury",
     "address": {
       "street": "Kattie Turnpike",
@@ -257,7 +257,7 @@ var users =
     "username": "Bret",
     "email": "tommy@april.biz",
 	"salary": 5500,
-	"img": "thumbnails",
+	"img": "https://tse3.mm.bing.net/th?id=OIP.QXmXm2E9AO9gUyG2Vlo82AHaHa&pid=Api&P=0&w=300&h=300",
 	 "city": "Gwenborough",
     "address": {
       "street": "Kulas Light",
@@ -282,7 +282,7 @@ var users =
     "username": "Bret",
     "email": "harry@april.biz",
 	"salary": 6000,
-	"img": "thumbnails",
+	"img": "https://tse1.mm.bing.net/th?id=OIP.GxfA4rpOFIlfdQA9XH7p8AHaLX&pid=Api&P=0&w=300&h=300",
 	"city": "Gwenborough",
     "address": {
       "street": "Kulas Light",
@@ -307,7 +307,7 @@ var users =
     "username": "Bret",
     "email": "Sincere@april.biz",
 	"salary": 6500,
-	"img": "thumbnails",
+	"img": "https://tse3.mm.bing.net/th?id=OIP.F0PiN7QnvwR4qSazBRv97AAAAA&pid=Api&P=0&w=300&h=300",
 	"city": "Gwenborough",
     "address": {
       "street": "Kulas Light",
@@ -332,7 +332,7 @@ var users =
     "username": "Bret",
     "email": "Sincere@april.biz",
 	"salary": 7000,
-	"img": "thumbnails",
+	"img": "https://tse1.mm.bing.net/th?id=OIP.V7vxmFfW-mKP7nv_cVftQAHaLH&pid=Api&P=0&w=300&h=300",
 	"city": "Gwenborough",
     "address": {
       "street": "Kulas Light",
@@ -357,7 +357,7 @@ var users =
     "username": "Bret",
     "email": "Sincere@april.biz",
 	"salary": 7500,
-	"img": "thumbnails",
+	"img": "https://tse1.mm.bing.net/th?id=OIP.hatseZjDRU-olSV5I3vMjgAAAA&pid=Api&P=0&w=300&h=300",
 	 "city": "Gwenborough",
     "address": {
       "street": "Kulas Light",
